@@ -1,0 +1,22 @@
+table{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table td{
+    padding-top: 10px;
+    width: 90px;
+}
+
+table input {
+    width : 100%;
+    border-width: 2px;
+    border-color: black;
+}
+
+table button {
+    width: 100%;
+    background-color: #A5A5A5;
+    color: white;
+}
