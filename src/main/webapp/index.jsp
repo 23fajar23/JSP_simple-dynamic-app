@@ -5,9 +5,9 @@
 </head>
 <body>
 
-<form method="get" action="http://localhost:8080/web-app/login">
+<form method="post" action="http://localhost:8080/web-app/login">
 
-<table>
+<table class="table-login">
     <tr>
         <td>User ID</td>
         <td><input type="text" name="userid" id="userid"></td>
